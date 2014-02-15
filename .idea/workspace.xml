@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b0cc360-80f3-4f44-81b5-a265e2ea598b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/jquery/jquery/1.10.1/jquery-debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/jquery/jquery/1.10.1/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/jquery/json/jquery.json-2.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linkage.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/linkage/linkage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/jquery/jquery/1.10.1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.0/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.0/sea-debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.1/sea-debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.0/sea.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.1/sea.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.0/sea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sea-module/seajs/2.1.1/sea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sea-module/linkage/linkage.js" afterPath="$PROJECT_DIR$/lib/sea-module/linkage/linkage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="linkage.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -102,7 +79,7 @@
       <file leaf-file-name="linkage.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/sea-module/linkage/linkage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="33" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.5695067" vertical-offset="1484" max-vertical-offset="2952">
+            <state line="19" column="9" selection-start="360" selection-end="360" vertical-scroll-proportion="0.16591929" vertical-offset="308" max-vertical-offset="3000">
               <folding />
             </state>
           </provider>
@@ -121,6 +98,7 @@
         <option value="jjf001" />
       </list>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -450,16 +428,16 @@
       <updated>1392356814679</updated>
       <workItem from="1392356815907" duration="5027000" />
       <workItem from="1392389532925" duration="6946000" />
-      <workItem from="1392454833419" duration="419000" />
+      <workItem from="1392454833419" duration="1402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12392000" />
+    <option name="totallyTimeSpent" value="13375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -480,7 +458,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14761905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14761905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -561,7 +539,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/sea-module/linkage/linkage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="33" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.5695067" vertical-offset="1484" max-vertical-offset="2952">
+        <state line="19" column="9" selection-start="360" selection-end="360" vertical-scroll-proportion="0.16591929" vertical-offset="308" max-vertical-offset="3000">
           <folding />
         </state>
       </provider>
