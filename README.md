@@ -1,10 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-</head>
-<body>
-    <div id="linkage"></div>
+Linkage plugin of jquery
+=====
+
+Linkage plugin, load width [seajs](http://seajs.org/)
+
+###json data format###
+
+	var data = [{id: 1, pid: 0, name: '广东省'}, {id: 2, pid: 1, name: '广州市'}, {id: 3, pid: 2, name: '增城区'}]
+	
+	
+###usage###
+
+	<div id="linkage"></div>
     <script src="./lib/sea-module/seajs/2.1.1/sea.js"></script>
     <script src="data.js"></script>
     <script>
@@ -18,10 +24,10 @@
         });
 
         seajs.use(['linkage'], function(linkage){
-            var lk = new linkage('#linkage', data);
+            var lk = new linkage('#linkage', data); // data in data.js, json format
             lk.init();
             lk.bind();
         });
     </script>
-</body>
-</html>
+
+demo [http://jjfeng.org/demo/linkage/](http://jjfeng.org/demo/linkage/)

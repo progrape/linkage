@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b0cc360-80f3-4f44-81b5-a265e2ea598b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sea-module/linkage/linkage.js" afterPath="$PROJECT_DIR$/lib/sea-module/linkage/linkage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="linkage.iws" />
@@ -70,16 +71,28 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="27" selection-start="321" selection-end="321" vertical-scroll-proportion="-9.454545" vertical-offset="0" max-vertical-offset="792">
+            <state line="10" column="11" selection-start="218" selection-end="218" vertical-scroll-proportion="-7.2727275" vertical-offset="0" max-vertical-offset="768">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linkage.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="0.45778835" vertical-offset="95" max-vertical-offset="936">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkage.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/sea-module/linkage/linkage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="9" selection-start="360" selection-end="360" vertical-scroll-proportion="0.16591929" vertical-offset="308" max-vertical-offset="3000">
+            <state line="20" column="23" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="3000">
               <folding />
             </state>
           </provider>
@@ -104,9 +117,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/js.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/data.js" />
         <option value="$PROJECT_DIR$/lib/sea-module/linkage/linkage.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -428,16 +442,25 @@
       <updated>1392356814679</updated>
       <workItem from="1392356815907" duration="5027000" />
       <workItem from="1392389532925" duration="6946000" />
-      <workItem from="1392454833419" duration="1402000" />
+      <workItem from="1392454833419" duration="3155000" />
     </task>
+    <task id="LOCAL-00001" summary="fix some bug&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is up-to-date with 'origin/master'.&#10;#&#10;# Changes to be committed:&#10;#&#9;modified:   .idea/workspace.xml&#10;#&#9;modified:   lib/sea-module/linkage/linkage.js&#10;#&#10;">
+      <created>1392459090250</created>
+      <updated>1392459090250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update readme.md">
+      <created>1392459530573</created>
+      <updated>1392459530573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13375000" />
+    <option name="totallyTimeSpent" value="15128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -480,7 +503,9 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="fix some bug&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is up-to-date with 'origin/master'.&#10;#&#10;# Changes to be committed:&#10;#&#9;modified:   .idea/workspace.xml&#10;#&#9;modified:   lib/sea-module/linkage/linkage.js&#10;#&#10;" />
+    <MESSAGE value="update readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readme.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -530,16 +555,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/lib/sea-module/linkage/linkage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="27" selection-start="321" selection-end="321" vertical-scroll-proportion="-9.454545" vertical-offset="0" max-vertical-offset="792">
+        <state line="20" column="23" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="3000">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sea-module/linkage/linkage.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="9" selection-start="360" selection-end="360" vertical-scroll-proportion="0.16591929" vertical-offset="308" max-vertical-offset="3000">
+        <state line="10" column="11" selection-start="218" selection-end="218" vertical-scroll-proportion="-7.2727275" vertical-offset="0" max-vertical-offset="768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="516" selection-end="516" vertical-scroll-proportion="0.45778835" vertical-offset="95" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
