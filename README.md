@@ -7,7 +7,12 @@ Linkage plugin, load width [seajs](http://seajs.org/)
 
 	var data = [{id: 1, pid: 0, name: '广东省'}, {id: 2, pid: 1, name: '广州市'}, {id: 3, pid: 2, name: '增城区'}]
 	
-	
+###params
+
+   new linkage('#linkage', data);// `#linkage` is the selector of the element to render, `data` is the json data
+
+   `onChange` event, callback will get a object of the last one of the linkage data, for example `{id: 3, pid: 2, name: '增城区'}`
+
 ###usage###
 
 	<div id="linkage"></div>
@@ -27,6 +32,7 @@ Linkage plugin, load width [seajs](http://seajs.org/)
             var lk = new linkage('#linkage', data); // data in data.js, json format
             lk.init();
             lk.bind();
+            lk.onChange = function(data){console.log(data.name);//增城区};
         });
     </script>
 
